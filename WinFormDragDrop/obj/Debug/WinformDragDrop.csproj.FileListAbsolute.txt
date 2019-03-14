@@ -1,0 +1,20 @@
+C:\Users\Arun\source\repos\WinformDragDrop\WinformDragDrop\bin\Debug\WinformDragDrop.exe.config
+C:\Users\Arun\source\repos\WinformDragDrop\WinformDragDrop\bin\Debug\WinformDragDrop.exe
+C:\Users\Arun\source\repos\WinformDragDrop\WinformDragDrop\bin\Debug\WinformDragDrop.pdb
+C:\Users\Arun\source\repos\WinformDragDrop\WinformDragDrop\obj\Debug\WinformDragDrop.csprojAssemblyReference.cache
+C:\Users\Arun\source\repos\WinformDragDrop\WinformDragDrop\obj\Debug\WinformDragDrop.Form1.resources
+C:\Users\Arun\source\repos\WinformDragDrop\WinformDragDrop\obj\Debug\WinformDragDrop.Properties.Resources.resources
+C:\Users\Arun\source\repos\WinformDragDrop\WinformDragDrop\obj\Debug\WinformDragDrop.csproj.GenerateResource.cache
+C:\Users\Arun\source\repos\WinformDragDrop\WinformDragDrop\obj\Debug\WinformDragDrop.csproj.CoreCompileInputs.cache
+C:\Users\Arun\source\repos\WinformDragDrop\WinformDragDrop\obj\Debug\WinformDragDrop.exe
+C:\Users\Arun\source\repos\WinformDragDrop\WinformDragDrop\obj\Debug\WinformDragDrop.pdb
+F:\working directry\g\WinformDragDrop\bin\Debug\WinformDragDrop.exe.config
+F:\working directry\g\WinformDragDrop\bin\Debug\WinformDragDrop.exe
+F:\working directry\g\WinformDragDrop\bin\Debug\WinformDragDrop.pdb
+F:\working directry\g\WinformDragDrop\obj\Debug\WinformDragDrop.csprojAssemblyReference.cache
+F:\working directry\g\WinformDragDrop\obj\Debug\WinformDragDrop.Form1.resources
+F:\working directry\g\WinformDragDrop\obj\Debug\WinformDragDrop.Properties.Resources.resources
+F:\working directry\g\WinformDragDrop\obj\Debug\WinformDragDrop.csproj.GenerateResource.cache
+F:\working directry\g\WinformDragDrop\obj\Debug\WinformDragDrop.csproj.CoreCompileInputs.cache
+F:\working directry\g\WinformDragDrop\obj\Debug\WinformDragDrop.exe
+F:\working directry\g\WinformDragDrop\obj\Debug\WinformDragDrop.pdb
